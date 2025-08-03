@@ -9,11 +9,15 @@ I love computers.
 
 - Python
 - C++
+- C
+- Racket
+- Processing
 
 ##### Hardware skills
 
 - Circuit Design
 - Soldering
+- Robot Design
 
 ##### Other skills
 - Leadership
